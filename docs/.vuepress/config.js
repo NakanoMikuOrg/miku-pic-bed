@@ -42,6 +42,11 @@ module.exports = {
     sidebar: [
       {
         isGroup: true,
+        text: "README",
+        children: ["/explain.md"],
+      },
+      {
+        isGroup: true,
         text: "Flat Circle Scenes",
         children: [
           "/flat-circle-scenes/flat-circle-scenes_1.md",

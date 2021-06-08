@@ -5,7 +5,7 @@ heroText: Miku's PicBed
 tagline: Picture bed of pictures that can be reused for Nakano Miku's related projects
 actions:
   - text: 🍕 View
-    link: "/flat-circle-scenes/flat-circle-scenes_1.md"
+    link: "/explain.md"
     type: primary
   - text: 🍺 Github
     link: "https://github.com/NakanoMikuOrg/miku-pic-bed"
